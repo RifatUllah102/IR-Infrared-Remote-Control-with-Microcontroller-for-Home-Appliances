@@ -1,0 +1,23 @@
+Arduino uno
+bread board
+--------------
+-------
+
+TSOP1738 sensor
+4.7uF cap
+jumper  wires 10pcs or more
+led red 4 pis
+1k x 4
+--------------
+---------fan
+motor 6v
+bd135 transistor
+4.7k R
+Adapter 6v
+l293d  drive driver --x
+---------
+ir remote
+-----------
+
+TECHSHOPBD.COM
+BDSPEEDYTECH.COM

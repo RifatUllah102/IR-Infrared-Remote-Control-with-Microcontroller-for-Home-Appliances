@@ -1,0 +1,16 @@
+Components: 
+
+    Arduino UNO
+    TSOP1738
+    IR TV/DVD Remote
+    ULN2003
+    Relays 5 volt
+    Bulb with holder
+    Connecting wires
+    Bread board
+    16x2 LCD
+    Power supply
+    PVT
+    IC 7805
+--------------------------------------------------------
+
